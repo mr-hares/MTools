@@ -2,7 +2,7 @@
  * @name MTools
  * @author mr_hares
  * @authorId 1162007580592320532
- * @version 2.4.1
+ * @version 2.4.2
  * @description Инструменты модератора, использующиеся для облегчения работы модератора
  * @website https://github.com/
  * @source https://github.com/
@@ -14,7 +14,7 @@ module.exports = (() => {
             name: "MTools",
             authors: [{ name: "mr_hares" }],
             version: "2.4.1",
-            description: "Инструменты модератора, использующиеся для облегчения работы модератора"
+            description: "Инструменты модератора, использующиеся для облегчения работы модератора | BETA"
         },
         changelog: [
             {
